@@ -15,7 +15,4 @@ python manage.py runserver
 python ./yatube/manage.py runserver
 ```
 ### Авторы
-Денис
-
-superuser 
-den 2-8
+Дениc
